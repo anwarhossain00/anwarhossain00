@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, This is Anwar Hossain 👋
 
-<!--
-**anwarhossain00/anwarhossain00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/anwarhossain00/) | [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=6&user=Icy4IG0AAAAJ) | [Website](https://yourwebsite.com) | [Email](mailto:anwarhossain.0ah@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Interests 🔍
+- Computer Vision
+- Automation
+- Deep Learning
+- Data Science
+- Digital System Design
+
+---
+
+### Education 🎓
+- **Ph.D. in Computer Engineering** (2025 - Present)  
+  King Fahd University of Petroleum and Minerals, Saudi Arabia
+
+- **B.Sc. in Computer Science and Engineering** (2019 - 2023)  
+  Daffodil International University, Bangladesh
